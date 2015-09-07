@@ -1,3 +1,0 @@
-background {
-	rgb <0,1,1>
-	}
